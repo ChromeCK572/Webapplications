@@ -1,0 +1,14 @@
+{
+  "name": "nasdaq-top10",
+  "version": "1.0.0",
+  "description": "Web app showing the top 10 Nasdaq stocks by market cap with price trends over 1M, 3M, YTD, 1Y, 3Y and 5Y",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "demo": "DEMO=1 node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
